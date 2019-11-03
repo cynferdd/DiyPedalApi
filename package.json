@@ -4,7 +4,8 @@
   "description": "Api managing diy pedals projects",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/cynferdd/DiyPedalApi/issues"
   },
-  "homepage": "https://github.com/cynferdd/DiyPedalApi#readme"
+  "homepage": "https://github.com/cynferdd/DiyPedalApi#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.7",
+    "nodemon": "^1.19.4"
+  }
 }
