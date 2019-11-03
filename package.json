@@ -1,0 +1,23 @@
+{
+  "name": "diypedalapi",
+  "version": "1.0.0",
+  "description": "Api managing diy pedals projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cynferdd/DiyPedalApi.git"
+  },
+  "keywords": [
+    "diy",
+    "pedal"
+  ],
+  "author": "m.jolivet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cynferdd/DiyPedalApi/issues"
+  },
+  "homepage": "https://github.com/cynferdd/DiyPedalApi#readme"
+}
